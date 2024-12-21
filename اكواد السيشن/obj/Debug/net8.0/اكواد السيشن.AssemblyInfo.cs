@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("اكواد السيشن")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74efb2a020e0a46bb79fe14ca68d7069ef53c502")]
 [assembly: System.Reflection.AssemblyProductAttribute("اكواد السيشن")]
 [assembly: System.Reflection.AssemblyTitleAttribute("اكواد السيشن")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
