@@ -1,0 +1,14 @@
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\obj\Debug\net8.0\Assigment session 5 ( function).GeneratedMSBuildEditorConfig.editorconfig
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\obj\Debug\net8.0\Assigment session 5 ( function).AssemblyInfoInputs.cache
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\obj\Debug\net8.0\Assigment session 5 ( function).AssemblyInfo.cs
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\obj\Debug\net8.0\Assigment session 5 ( function).csproj.CoreCompileInputs.cache
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\bin\Debug\net8.0\Assigment session 5 ( function).exe
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\bin\Debug\net8.0\Assigment session 5 ( function).deps.json
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\bin\Debug\net8.0\Assigment session 5 ( function).runtimeconfig.json
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\bin\Debug\net8.0\Assigment session 5 ( function).dll
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\bin\Debug\net8.0\Assigment session 5 ( function).pdb
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\obj\Debug\net8.0\Assigment session 5 ( function).dll
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\obj\Debug\net8.0\refint\Assigment session 5 ( function).dll
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\obj\Debug\net8.0\Assigment session 5 ( function).pdb
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\obj\Debug\net8.0\Assigment session 5 ( function).genruntimeconfig.cache
+F:\Rout\c #\session 5 function\Assigment session 5 ( function)\obj\Debug\net8.0\ref\Assigment session 5 ( function).dll

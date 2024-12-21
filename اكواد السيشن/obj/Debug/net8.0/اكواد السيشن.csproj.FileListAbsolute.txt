@@ -1,0 +1,14 @@
+F:\Rout\c #\session 5 function\اكواد السيشن\bin\Debug\net8.0\اكواد السيشن.exe
+F:\Rout\c #\session 5 function\اكواد السيشن\bin\Debug\net8.0\اكواد السيشن.deps.json
+F:\Rout\c #\session 5 function\اكواد السيشن\bin\Debug\net8.0\اكواد السيشن.runtimeconfig.json
+F:\Rout\c #\session 5 function\اكواد السيشن\bin\Debug\net8.0\اكواد السيشن.dll
+F:\Rout\c #\session 5 function\اكواد السيشن\bin\Debug\net8.0\اكواد السيشن.pdb
+F:\Rout\c #\session 5 function\اكواد السيشن\obj\Debug\net8.0\اكواد السيشن.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rout\c #\session 5 function\اكواد السيشن\obj\Debug\net8.0\اكواد السيشن.AssemblyInfoInputs.cache
+F:\Rout\c #\session 5 function\اكواد السيشن\obj\Debug\net8.0\اكواد السيشن.AssemblyInfo.cs
+F:\Rout\c #\session 5 function\اكواد السيشن\obj\Debug\net8.0\اكواد السيشن.csproj.CoreCompileInputs.cache
+F:\Rout\c #\session 5 function\اكواد السيشن\obj\Debug\net8.0\اكواد السيشن.dll
+F:\Rout\c #\session 5 function\اكواد السيشن\obj\Debug\net8.0\refint\اكواد السيشن.dll
+F:\Rout\c #\session 5 function\اكواد السيشن\obj\Debug\net8.0\اكواد السيشن.pdb
+F:\Rout\c #\session 5 function\اكواد السيشن\obj\Debug\net8.0\اكواد السيشن.genruntimeconfig.cache
+F:\Rout\c #\session 5 function\اكواد السيشن\obj\Debug\net8.0\ref\اكواد السيشن.dll
